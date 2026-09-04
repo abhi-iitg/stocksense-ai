@@ -1,0 +1,13 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+**/model/**/*.pkl filter=lfs diff=lfs merge=lfs -text
+**/models/**/*.pkl filter=lfs diff=lfs merge=lfs -text
+**/models/**/*.pth filter=lfs diff=lfs merge=lfs -text
+**/models/**/*.csv filter=lfs diff=lfs merge=lfs -text
+**/*.cvs filter=lfs diff=lfs merge=lfs -text
+**/*.pkl filter=lfs diff=lfs merge=lfs -text
+**/*.pth filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+**/*.csv filter=lfs diff=lfs merge=lfs -text
