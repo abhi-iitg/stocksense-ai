@@ -1022,10 +1022,8 @@ Focused on practical applications of:
 ---
 
 ## 📬 Contact
-
-- **GitHub:** https://github.com/abhi-iitg
-- **Portfolio:** https://abhishek-kg-portfolio-pied.vercel.app/
-- **Project:** https://github.com/abhi-iitg/stocksense-ai
+Abhishek Kumar Gond
+IITG
 
 ---
 
